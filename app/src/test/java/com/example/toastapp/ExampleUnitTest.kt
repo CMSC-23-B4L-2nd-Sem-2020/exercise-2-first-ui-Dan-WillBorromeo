@@ -1,4 +1,4 @@
-package com.example.hellotoast
+package com.example.toastapp
 
 import org.junit.Test
 

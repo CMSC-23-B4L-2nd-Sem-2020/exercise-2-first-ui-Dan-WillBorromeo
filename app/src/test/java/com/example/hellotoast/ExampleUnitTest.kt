@@ -1,4 +1,4 @@
-package com.example.myapplication
+package com.example.hellotoast
 
 import org.junit.Test
 
